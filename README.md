@@ -10,6 +10,8 @@ I'm a passionate **Front-End Developer** specializing in crafting responsive, hi
 📈 TypeScript  
 📈 Next.js  
 📈 React.js  
+📈 Vue.js  
+📈 Nuxt.js  
 📈 RESTful APIs  
 📈 GraphQL  
 📈 Redux  
