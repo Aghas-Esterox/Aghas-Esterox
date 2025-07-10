@@ -11,7 +11,7 @@ I'm a passionate **Front-End Developer** specializing in crafting responsive, hi
 📈 Next.js  
 📈 React.js  
 📈 RESTful APIs  
-📈 GraphQL 
+📈 GraphQL  
 📈 Redux  
 📈 Bootstrap  
 📈 Tailwind CSS  
