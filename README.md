@@ -6,15 +6,16 @@ I'm a passionate **Front-End Developer** specializing in crafting responsive, hi
 
 ## 🛠 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬
 
-📈 HTML / CSS  
 📈 JavaScript  
 📈 TypeScript  
-📈 React.js  
-📈 Redux  
 📈 Next.js  
+📈 React.js  
+📈 RESTful APIs  
+📈 GraphQL 
+📈 Redux  
 📈 Bootstrap  
 📈 Tailwind CSS  
-📈 RESTful APIs  
+📈 HTML / CSS  
 📈 Figma
 
 ---
