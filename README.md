@@ -37,5 +37,5 @@ Feel free to reach out if you'd like to collaborate, need help with a project, o
 
 - 📧 Email: [aghas.ghazaryan@esterox.am]
 - 🌐 Portfolio: [https://github.com/Aghas-Esterox]
-- 💼 LinkedIn: [https://www.linkedin.com/in/aghasy-ghazaryan-8bba8a244/]
+
 
